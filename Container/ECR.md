@@ -1,6 +1,7 @@
 ## Example #1 - ECS + Pull Image from ECR 
 ![image](https://github.com/user-attachments/assets/ff06dc12-0d3c-4c08-8cd2-dcef13a34b28)
 
+### Setup
 로컬에서 Docker 이미지 생성
 ```
 docker build -t myapp:latest .
