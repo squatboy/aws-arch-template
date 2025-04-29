@@ -14,4 +14,7 @@
 - 파일 게이트웨이를 통해 작성된 파일은 Amazon S3에서 직접 액세스
 ```
 
+## Example #2 - Volume Gateway
+![image](https://github.com/user-attachments/assets/5e21bb89-b213-456c-baed-9ff53b1691c3)
+
 
